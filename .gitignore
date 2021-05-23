@@ -1,0 +1,10 @@
+# for python venv, other
+p3
+__pycache__
+
+# for node
+node_modules
+# package.json
+
+# for misc working 
+proto
