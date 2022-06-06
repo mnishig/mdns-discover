@@ -9,8 +9,8 @@ filelock==3.3.0
 idna==2.10
 ifaddr==0.1.7
 isort==5.9.3
-Kivy==2.0.0
-Kivy-examples==2.0.0
+Kivy==2.1.0
+Kivy-examples==2.1.0
 Kivy-Garden==0.1.4
 lazy-object-proxy==1.6.0
 mccabe==0.6.1
@@ -29,4 +29,4 @@ virtualenv==20.8.1
 virtualenv-clone==0.5.7
 watchdog==2.1.2
 wrapt==1.12.1
-zeroconf==0.31.0
+zeroconf==0.38.6
